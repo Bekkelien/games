@@ -10,7 +10,7 @@ pygame.init()
 pygame.display.set_caption('Snake')
 
 ### User configuration ###
-FPS = 15
+FPS = 10
 BOARD_SIZE = 20 # Minimum 10 is recommended
 BOX_SIZE = 30
 OBSTACLE = True
